@@ -1,2 +1,2 @@
-# prj-int-Deliveroo
+# Deliveroo
 An analysis for Deliveroo
